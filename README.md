@@ -6,4 +6,8 @@ Screenshot of the Application:
 
 <img src = "Screenshot_1609747248.png" width="200"> 
 <img src = "Screenshot_1609747287.png" width="200">
+<img src = "Screenshot_1609747355.png" width="200">
+<img src = "Screenshot_1609747445.png" width="200">
+<img src = "Screenshot_1609747458.png" width="200">
+
 
